@@ -1,0 +1,2 @@
+# Team-AFD
+Automatic flavour dispenser is a machine which is used to dispense the liquid of different flavour. We use this project in the feild of food industry for health &amp; hygiene, where it helps to disense different flavours of liquid. Basically we design this for a chat named panipoori, where it helps to dispense flavours of liquid (Sweet,Spicy,Both Spicy &amp;Sweet) automatically when we place the panipoori below the nozzle.
